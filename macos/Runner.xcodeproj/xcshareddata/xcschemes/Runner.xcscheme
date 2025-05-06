@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "todo_list_app.app"
+=======
+               BuildableName = "check_mee.app"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "todo_list_app.app"
+=======
+            BuildableName = "check_mee.app"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "todo_list_app.app"
+=======
+            BuildableName = "check_mee.app"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "todo_list_app.app"
+=======
+            BuildableName = "check_mee.app"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

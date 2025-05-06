@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="todo_list_app"
+=======
+        android:label="check_mee"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

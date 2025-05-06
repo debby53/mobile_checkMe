@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.todo_list_app"
+=======
+    namespace = "com.example.check_mee"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.todo_list_app"
+=======
+        applicationId = "com.example.check_mee"
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

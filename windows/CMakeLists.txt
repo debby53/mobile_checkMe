@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(todo_list_app LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "todo_list_app")
+=======
+project(check_mee LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "check_mee")
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

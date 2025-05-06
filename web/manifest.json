@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "todo_list_app",
     "short_name": "todo_list_app",
+=======
+    "name": "check_mee",
+    "short_name": "check_mee",
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

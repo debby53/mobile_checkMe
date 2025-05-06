@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"todo_list_app", origin, size)) {
+=======
+  if (!window.Create(L"check_mee", origin, size)) {
+>>>>>>> 5389a74f4558071135ed1adff3950b2c48c5e988
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
